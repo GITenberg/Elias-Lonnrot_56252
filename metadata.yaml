@@ -1,0 +1,23 @@
+_repo: Elias-Lonnrot_56252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kallio, O. A. (Oskar Albin)
+    alias: Kallio, Oskar Albin
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '43228'
+    url: http://www.gutenberg.org/2009/agents/43228
+description: ''
+gutenberg_issued: '2017-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56252'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elias Lönnrot
+url: http://www.gutenberg.org/ebooks/56252
